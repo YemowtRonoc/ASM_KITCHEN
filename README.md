@@ -1,6 +1,6 @@
 <h1>KITCHEN_ASM</h1>
 <br>
-This is a project where the requirement was to draw a kitchen using an assembly language. This is my final submission. The kitchen is drawn from an axonometric perspective.
+This is a project where the requirements were to draw a kitchen using an assembly language, have 3 clickable items, and at least 1 animation. This is my final submission where the kitchen is drawn from an axonometric perspective.
 <br>
 <h2>Screenshots</h2>
 <img src="https://raw.github.com/YemowtRonoc/ASM_KITCHEN/master/Kitchen.PNG">
