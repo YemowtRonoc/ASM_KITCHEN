@@ -3,4 +3,4 @@
 This is a project where the requirement was to draw a kitchen using an assembly language. This is my final submission. The kitchen is drawn from an axonometric perspective.
 <br>
 <h2>Screenshots</h2>
-![Picture of kitchen](./Kitchen.PNG?raw=true "Kitchen")
+![Picture of kitchen](Kitchen.PNG?raw=true "Kitchen")
