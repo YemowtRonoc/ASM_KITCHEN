@@ -3,5 +3,17 @@
 This is a project where the requirement was to draw a kitchen using an assembly language. This is my final submission. The kitchen is drawn from an axonometric perspective.
 <br>
 <h2>Screenshots</h2>
-![Picture of kitchen](https://raw.github.com/YemowtRonoc/ASM_KITCHEN/master/Kitchen.PNG "Kitchen")
-![Animated gif](windowAfter.PNG "Animation that shows auto completion")
+<img src="https://raw.github.com/YemowtRonoc/ASM_KITCHEN/master/Kitchen.PNG">
+
+<h4>Sink</h4>
+<img src="sinkBefore.PNG">
+<img src="sinkAfter.PNG">
+
+<h4>Table & Chair</h4>
+<img src="tableChairBefore.PNG">
+<img src="tableChairAfter.PNG">
+
+<h4>Window Blinds</h4>
+<img src="windowBefore.PNG">
+<img src="windowDuring.PNG">
+<img src="windowAfter.PNG">
