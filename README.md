@@ -4,3 +4,4 @@ This is a project where the requirement was to draw a kitchen using an assembly 
 <br>
 <h2>Screenshots</h2>
 ![Picture of kitchen](https://raw.github.com/YemowtRonoc/ASM_KITCHEN/master/Kitchen.PNG "Kitchen")
+![Animated gif](windowAfter.PNG "Animation that shows auto completion")
