@@ -3,17 +3,17 @@
 This is a project where the requirements were to draw a kitchen using an assembly language(8086), have 3 clickable items, and at least 1 animation. This is my final submission where the kitchen is drawn from an axonometric perspective.
 <br>
 <h2>Screenshots</h2>
-<img src="https://raw.github.com/YemowtRonoc/ASM_KITCHEN/master/Kitchen.PNG">
+<img src="images/Kitchen.PNG">
 
 <h4>Sink</h4>
-<img src="sinkBefore.PNG">
-<img src="sinkAfter.PNG">
+<img src="images/sinkBefore.PNG">
+<img src="images/sinkAfter.PNG">
 
 <h4>Table & Chair</h4>
-<img src="tableChairBefore.PNG">
-<img src="tableChairAfter.PNG">
+<img src="images/tableChairBefore.PNG">
+<img src="images/tableChairAfter.PNG">
 
 <h4>Window Blinds</h4>
-<img src="windowBefore.PNG">
-<img src="windowDuring.PNG">
-<img src="windowAfter.PNG">
+<img src="images/windowBefore.PNG">
+<img src="images/windowDuring.PNG">
+<img src="images/windowAfter.PNG">
